@@ -1,0 +1,55 @@
+[
+    {
+    "id":0,
+    "name": "Dyed Cotton Kurta Shalwar",
+    "price": 26,
+    "imgUrl":[
+        "https://us.alkaramstudio.com/cdn/shop/products/R-TP-197_1.jpg?v=1688543632&width=800",
+        "https://us.alkaramstudio.com/cdn/shop/products/R-TP-197_2.jpg?v=1688543632&width=800",
+        "https://us.alkaramstudio.com/cdn/shop/products/R-TP-197_3.jpg?v=1688543632&width=800",
+        "https://us.alkaramstudio.com/cdn/shop/products/R-TP-197_4.jpg?v=1688543632&width=800"]
+    },
+    {
+        "id":1,
+        "name": "Dyed Elite Kurta Shalwar",
+        "price": 23,
+        "imgUrl":[
+            "https://us.alkaramstudio.com/cdn/shop/products/A-TP-80_1_25b2e8a4-c8ee-40f8-881a-922ad3a590fd.jpg?v=1685428344&width=800",
+            "https://us.alkaramstudio.com/cdn/shop/products/A-TP-80_2_804f6e61-853d-473c-9c17-9b9758d51360.jpg?v=1685428344&width=800",
+            "https://us.alkaramstudio.com/cdn/shop/products/A-TP-80_3_16217fa8-5122-45bb-b8d5-01b81e2e970f.jpg?v=1685428344&width=800",
+            "https://us.alkaramstudio.com/cdn/shop/products/A-TP-80_4_b04e17b2-9ac5-42c7-9c63-b6981040c2a9.jpg?v=1685428344&width=800"
+        ]
+    },
+    {
+        "id":2,
+        "name": " Hazure Online Collection",
+        "price": 40,
+        "imgUrl":[
+            "https://64.media.tumblr.com/e13bdd59061f5617f87896e6d8ed5a5f/b9c18e33ed664f7b-40/s1280x1920/2a776bddc04a22cd8713ff50605a4686990ffa45.jpg",
+            "https://64.media.tumblr.com/956e0c43a475e067507d76b97939046a/b9c18e33ed664f7b-77/s1280x1920/2e4b8dff8e8dfa9c2d57b4dcc4e5f882f7c00c8d.jpg"
+
+        ]
+    },
+    {
+        "id":3,
+        "name": "Green Kutras",
+        "price": 43,
+        "imgUrl":[
+            "https://64.media.tumblr.com/20272cc8ad592b946663a3dc13b28249/b9c18e33ed664f7b-e9/s1280x1920/37192c536c324eb0d5e84b4bda45c8bf422e0fbc.jpg",
+            "https://64.media.tumblr.com/10da8ffddb66ac79521df7f8b42c4fe0/b9c18e33ed664f7b-79/s1280x1920/43ddad99d0771fcd7cc9b54227270434f64ef8f8.jpg"
+            
+        ]
+    },
+    {
+        "id":4,
+        "name": "Orange Kutras",
+        "price": 26,
+        "imgUrl":[
+            "https://64.media.tumblr.com/4e0fd02aadb81c348e9ce4813131c474/b9c18e33ed664f7b-08/s1280x1920/ea4a42559f88310d0a81d5e300996c54fc083ca1.jpg",
+            "https://64.media.tumblr.com/6d7590da43d83c31320e25bd2459e30e/b9c18e33ed664f7b-85/s1280x1920/e2e7ab636ca1dc47c01e73ceb088f8035e91e0fc.jpg"
+            
+        ]
+    }
+
+
+]

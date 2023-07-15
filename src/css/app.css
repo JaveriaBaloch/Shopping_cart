@@ -1,0 +1,15 @@
+.cart-btn{
+    position: relative;
+}
+.badge{
+    position:absolute !important;
+    content:"";
+    top:30px !important;
+    right:-2 !important;
+    height: fit-content !important;
+    border-radius: 50%;
+    padding: 0.7rem;
+}
+.d{
+    text-decoration: none !important;
+}
